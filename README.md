@@ -1,4 +1,4 @@
-# TraingCollegeStudentInfromation
+# College Student Infromation System
 Using Python procedural programming Approach CRUD operation 
 
 Programming Language : Python
